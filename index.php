@@ -12,9 +12,8 @@
     $r=6;
     $polomer="3.14*$r";
      ?>
- 
-     <?php
 
+     <?php
      echo "S = PI . r² = S = " . PI . "*$polomer";
       ?>
 
